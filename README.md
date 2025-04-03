@@ -1,4 +1,4 @@
-# Duhyeon Kim | Machine Learning Engineer
+# Duhyeon Kim | Somewhere in ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Self-motivated ML engineer passionate about AI algorithms, software frameworks, and hardware systems. Experienced in deep learning and system optimization for advanced applications with expertise in computer vision, NLP, and hardware acceleration.
+Self-motivated ML-related engineer passionate about AI algorithms, software frameworks, and hardware systems. Experienced in deep learning(Python) and system optimization(C) for advanced applications with expertise in computer vision(torch), NLP(huggingface), and hardware design(verilog).
 
 ## 🧠 Skills
 
