@@ -96,4 +96,9 @@ Feel free to reach out for collaborations, opportunities, or just a chat about t
 
 ---
 
+## 🚴 Hobbies
+
+- Squash : from 2024.03
+- Running : from 2022.12
+
 *Constantly exploring the intersection of AI and efficient system design.*
