@@ -52,7 +52,7 @@ Designed control logics of RISC-V 5-stage pipelined processor with hazard detect
 
 [![Email](https://img.shields.io/badge/Email-kdhluck@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdhluck@naver.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B82_10--6654--9551-25D366?style=for-the-badge)](tel:+821066549551)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duhyeon-kim-6623082b1/)
 
 ## 🌐 Languages
 
