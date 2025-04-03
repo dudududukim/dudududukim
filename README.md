@@ -62,10 +62,10 @@ Here's a glimpse into my technical toolkit:
 
 <p align="center">
   <a href="https://github.com/dudududukim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true&theme=radical&rank_icon=github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true&rank_icon=github" />
   </a>
   <a href="https://github.com/dudududukim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact" />
   </a>
 </p>
 
