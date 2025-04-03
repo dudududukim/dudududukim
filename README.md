@@ -1,64 +1,99 @@
-# Duhyeon Kim | Somewhere in ML
+# ✨ Duhyeon Kim | ML Engineer & Hardware Enthusiast ✨
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CAD09D?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-## About Me
-
-Self-motivated ML-related engineer passionate about AI algorithms, software frameworks, and hardware systems. Experienced in deep learning(Python) and system optimization(C) for advanced applications with expertise in computer vision(torch), NLP(huggingface), and hardware design(verilog).
-
-## 🧠 Skills
-
-### Machine Learning & AI
-- **Computer Vision**: Image recognition, object detection, DCT hardware optimization
-- **Natural Language Processing**: Sentiment analysis, BERT fine-tuning, attention mechanisms
-- **Generative Models**: VAE, Normalizing Flow, GAN, Diffusion models
-- **Hardware Acceleration**: FPGA implementation, systolic arrays, matrix multiplier design
-
-### Programming & Tools
-- **Languages**: Python, C, (System)Verilog, MATLAB
-- **ML Frameworks**: PyTorch, OpenCV
-- **EDA Tools**: Xilinx Vivado, Intel Quartus, Synopsys Design Compiler
-- **DevOps**: Git, Bash Shell, GitHub
-
-## 🚀 Projects
-
-### Sentiment Analysis with Attention Mechanisms
-Built a custom sentiment analysis architecture with attention mechanisms and Conv1D layers for long-text (lyrics) classification. Fine-tuned the klue/bert-base model and introduced emotion similarity-based evaluation metrics.
-
-### Hardware-Optimized Matrix Multiplier
-Designed a 32×32 matrix multiplier with parallel 4-MAC units, SRAM timing control, and pipeline optimization. Compared a weight-stationary systolic array and an adder-tree-based vector multiplier for matrix multiplication on Xilinx FPGAs.
-
-### Generative Models Implementation
-Developed and analyzed generative models (VAE, C-VAE, and Info-GAN) using PyTorch, optimizing conditional generation, reconstruction quality, and stability through advanced techniques like latent space enhancement and feature matching.
-
-### RISC-V Pipelined Processor Design
-Designed control logics of RISC-V 5-stage pipelined processor with hazard detection and data forwarding, extending a single-cycle CPU.
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/dudududukim">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true" />
-</a>
-<a href="https://github.com/dudududukim">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact" />
-</a>
-
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-kdhluck@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdhluck@naver.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B82_10--6654--9551-25D366?style=for-the-badge)](tel:+821066549551)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duhyeon-kim-6623082b1/)
-
-## 🌐 Languages
-
-- Korean (Native)
-- English (OPIc IH)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-CAD09D?style=for-the-badge" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
 
 ---
 
-*This README is a template for Machine Learning Engineers to showcase their skills and projects.*
+## 👨‍💻 About Me
+
+Self-motivated ML engineer passionate about the synergy between **AI algorithms**, **software frameworks**, and **hardware systems**. Experienced in applying **Deep Learning** (`Python`, `PyTorch`) and **System Optimization** (`C`) to advanced applications. Expertise spans **Computer Vision** (`OpenCV`), **NLP** (`Hugging Face`), and **Hardware Design** (`Verilog`), always aiming for efficient and powerful solutions.
+
+---
+
+## 🧠 Core Competencies
+
+Here's a glimpse into my technical toolkit:
+
+### 🤖 AI & Machine Learning
+- **Computer Vision:** Image Recognition, Object Detection, DCT Hardware Optimization
+- **Natural Language Processing:** Sentiment Analysis, BERT Fine-tuning (`klue/bert-base`), Attention Mechanisms
+- **Generative Models:** VAE, Normalizing Flow, GAN, Diffusion Models
+- **Hardware Acceleration:** FPGA Implementation (Xilinx), Systolic Arrays, Matrix Multiplier Design
+
+### 🛠️ Programming & Tools
+- **Languages:** `Python`, `C`, `SystemVerilog`, `Verilog`, `MATLAB`, `Bash Shell`
+- **ML Frameworks:** `PyTorch`, `OpenCV`, `Hugging Face`
+- **Hardware/EDA Tools:** `Xilinx Vivado`, `Intel Quartus`, `Synopsys Design Compiler`
+- **Development & Ops:** `Git`, `GitHub`
+
+---
+
+## 🚀 Highlighted Projects
+
+### 🎭 Sentiment Analysis with Attention Mechanisms
+- **Goal:** Built a custom sentiment analysis architecture optimized for long-text (lyrics) classification.
+- **Methods:** Implemented custom **Attention Mechanisms** and **Conv1D** layers. Fine-tuned the `klue/bert-base` model and introduced novel **Emotion Similarity-Based Evaluation Metrics**.
+- **Tech:** `PyTorch`, `Hugging Face Transformers`, `Python`
+
+### 🧮 Hardware-Optimized Matrix Multiplier
+- **Goal:** Designed and compared high-performance 32×32 matrix multiplier units for FPGA acceleration.
+- **Methods:** Implemented and analyzed a **Weight-Stationary Systolic Array** vs. an **Adder-Tree-Based Vector Multiplier**. Focused on parallel **4-MAC units**, SRAM timing control, and pipeline optimization on Xilinx FPGAs.
+- **Tech:** `SystemVerilog`, `Xilinx Vivado`, `FPGA`
+
+### ✨ Generative Models Implementation & Analysis
+- **Goal:** Developed and analyzed various generative models (VAE, C-VAE, Info-GAN) using PyTorch.
+- **Methods:** Focused on optimizing conditional generation, reconstruction quality, and training stability through techniques like **Latent Space Enhancement** and **Feature Matching**.
+- **Tech:** `PyTorch`, `Python`
+
+### ⚙️ RISC-V Pipelined Processor Design
+- **Goal:** Enhanced a basic single-cycle RISC-V CPU to a 5-stage pipelined architecture.
+- **Methods:** Designed and implemented critical **Control Logic**, **Hazard Detection Units**, and **Data Forwarding Paths** to manage pipeline dependencies efficiently.
+- **Tech:** `Verilog`, CPU Architecture Principles
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/dudududukim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true&theme=radical&rank_icon=github" />
+  </a>
+  <a href="https://github.com/dudududukim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out for collaborations, opportunities, or just a chat about tech!
+
+<p align="left">
+  <a href="mailto:kdhluck@naver.com">
+    <img src="https://img.shields.io/badge/Email-kdhluck@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+821066549551">
+    <img src="https://img.shields.io/badge/Phone-%2B82_10--6654--9551-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://www.linkedin.com/in/duhyeon-kim-6623082b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Duhyeon Kim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Languages
+
+- **Korean:** Native
+- **English:** Professional Working Proficiency (OPIc IH)
+
+---
+
+*Constantly exploring the intersection of AI and efficient system design.*
