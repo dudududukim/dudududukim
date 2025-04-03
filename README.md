@@ -41,10 +41,10 @@ Designed control logics of RISC-V 5-stage pipelined processor with hazard detect
 ## 📊 GitHub Stats
 
 <a href="https://github.com/dudududukim">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true" />
 </a>
 <a href="https://github.com/dudududukim">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact" />
 </a>
 
 
