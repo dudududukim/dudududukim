@@ -69,9 +69,11 @@ Here's a glimpse into my technical toolkit:
   </a>
 </p>
 
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhluck)](https://solved.ac/kdhluck/)
-</p>
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhluck" alt="Solved.ac Profile" />
+</div>
+
+
 ---
 
 ## 📫 Let's Connect!
