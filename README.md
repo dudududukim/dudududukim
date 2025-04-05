@@ -69,7 +69,7 @@ Here's a glimpse into my technical toolkit:
   </a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdhluck)](https://solved.ac/kdhluck)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdhluck)](https://solved.ac/kdhluck) --!>
 ---
 
 ## 📫 Let's Connect!
