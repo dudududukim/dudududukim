@@ -1,4 +1,4 @@
-# ✨ Duhyeon Kim | ML Engineer & Hardware Enthusiast (중구난방) ✨
+# ✨ Duhyeon Kim | AI (SW/HW) Enthusiast (중구난방) ✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
