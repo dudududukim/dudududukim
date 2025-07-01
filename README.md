@@ -65,7 +65,7 @@ Here's a glimpse into my technical toolkit:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true&rank_icon=github" />
   </a>
   <a href="https://github.com/dudududukim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact&exclude_repo=pytorch_seminar_2025,dudududukim.github.io" />
   </a>
 </p>
 
