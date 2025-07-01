@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Self-motivated ML engineer passionate about the synergy between **AI algorithms**, **software frameworks**, and **hardware systems**. Experienced in applying **Deep Learning** (`Python`, `PyTorch`) and **System Optimization** (`C`) to advanced applications. Expertise spans **Computer Vision** (`OpenCV`), **NLP** (`Hugging Face`), and **Hardware Design** (`Verilog`), always aiming for efficient and powerful solutions.
+Self-motivated ML engineer passionate about the synergy between **AI algorithms**, **software frameworks**, and **hardware systems**. Experienced in applying **Deep Learning** (`Python`, `PyTorch`) and **System Optimization** (`C`) to advanced applications. Expertise spans **Computer Vision** (`OpenCV`), **NLP** (`Hugging Face`), and **Hardware Design** (`Verilog`), always aiming for efficient and meaningful solutions.
 
 ---
 
