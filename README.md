@@ -27,10 +27,10 @@ Here's a glimpse into my technical toolkit:
 - **Hardware Acceleration:** FPGA Implementation (Xilinx), Systolic Arrays, Matrix Multiplier Design
 
 ### 🛠️ Programming & Tools
-- **Languages:** `Python`, `C`, `SystemVerilog`, `Verilog`, `MATLAB`, `Bash Shell`
+- **Languages:** `Python`, `C`, `CPP`, `SystemVerilog`, `Verilog`, `MATLAB`, `Bash Shell`
 - **ML Frameworks:** `PyTorch`, `OpenCV`, `Hugging Face`
 - **Hardware/EDA Tools:** `Xilinx Vivado`, `Intel Quartus`, `Synopsys Design Compiler`
-- **Development & Ops:** `Git`, `GitHub`
+- **Development & Ops:** `Git`, `GitHub`, `Shell`
 
 ---
 
