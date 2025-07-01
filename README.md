@@ -17,7 +17,7 @@ Self-motivated ML engineer passionate about the synergy between **AI algorithms*
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 Core Interests
 
 Here's a glimpse into my technical toolkit:
 
