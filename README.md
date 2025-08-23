@@ -17,7 +17,7 @@
 ## 🎯 Interests
 
 - <b>Hardware Design</b>: CPU/FPGA, System Architecture, Low-level Optimization  
-- <b>Software Design</b>: Machine Learning, System Software, Direct Performance Tuning
+- <b>Software Design</b>: Machine Learning, System Architecture, HCI
 
 💡 I love tackling the HW/SW bottleneck—improving slow hardware with smart software, or fixing slow software with better hardware!
 
