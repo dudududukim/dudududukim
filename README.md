@@ -35,7 +35,7 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dudududukim&show_icons=true&rank_icon=percentile" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact&exclude_repo=pytorch_seminar_2025,dudududukim.github.io,Cumpa" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudududukim&layout=compact&exclude_repo=pytorch_seminar_2025,dudududukim.github.io,Cumpa,agents-course" />
 </p>
 
 ---
